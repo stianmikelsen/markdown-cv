@@ -71,10 +71,10 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: rgb(16, 13, 231);
 }
 
 p code {
