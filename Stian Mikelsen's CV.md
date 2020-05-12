@@ -3,9 +3,10 @@ layout: cv
 title: Stian Mikelsen's CV
 ---
 # Stian Mikelsen
-<img src="Assets/portrait.jpg" width="200">
-![alt text](portrait.jpg "Portrait")
-Stian is currently a Senior Manager in the Data & Analytics team at BearingPoint Norway. Stian has a passion for data, both the engineering and the science. He has lately developed a strong interest in product development. Stian wants to work hands-on in an agile environment. He likes to move fast with lots of trail and error. Stian thrives in small cross-functional teams which he likes to lead. Stian has a broad understanding of most of IT and enjoys coding. Stian dislikes inefficiency and waste and will challenge it where he finds it. He is an eager follower of Lean and Agile.
+
+<img src="portrait.jpg" width="100">
+
+Stian is currently a Senior Manager in the Data & Analytics team at BearingPoint Norway. Stian has a passion for data, both the engineering and the science. He has lately developed a strong interest in product development. Stian wants to work hands-on in an agile environment. He likes to move fast with lots of trial and error. Stian thrives in small cross-functional teams which he likes to lead. Stian has a broad understanding of most of IT and enjoys coding. Stian dislikes inefficiency and waste and will challenge it where he finds it. He is an eager follower of Lean and Agile.
 
 email: <a href="stian.mikelsen@gmail.com">stian.mikelsen@gmail.com</a>
 
@@ -73,7 +74,7 @@ mobile: +47 46 82 89 36
 - We tested most classical time series predictors as well as Recurrent Neural Networks
 - Hyperparameter search was done with artificial evolution
 
-<div style="page-break-after: always;"></div>
+<!-- <div style="page-break-after: always;"></div> -->
 
 ## Education
 
