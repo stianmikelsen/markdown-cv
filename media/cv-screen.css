@@ -64,7 +64,7 @@ body {
 
 p {
 	position: relative;
-	left: 25%;
+	left: 27%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 65%;
@@ -85,7 +85,7 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 27%;
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
@@ -118,7 +118,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	margin-top: 2em;
-	left: 25%;
+	left: 27%;
 	/* padding: .1rem 1rem; */
   /* text-shadow: 1px 1px #fff,
       					1px 2px #ccc; */
@@ -167,7 +167,7 @@ a:hover {
 #webaddress {
 	margin-top: 0em;
 	position: relative;
-  margin-left: 25%;
+  margin-left: 27%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
@@ -195,7 +195,7 @@ strong {
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
 		position: relative;
-		left: 25%;
+		left: 27%;
 		margin-top: 2em;
 		margin-bottom: 7em;
 		margin-right: 0;
