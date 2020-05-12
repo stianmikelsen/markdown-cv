@@ -49,27 +49,27 @@ mobile: +47 46 82 89 36
 
 - Stian was the project manager for a team that performed application management and development of Oracle ERP system. 
 
-`May 2013 - Aug 2013` __Developer of mobile BI POC at large norwegian bank__
+`May 2013 - Aug 2013` __Developer of Mobile BI POC at Large Norwegian Bank__
 
 - Stian developed on its own a number of prototypes for mobile BI reports in IBM Cognos. 
 - Central to the work was the analysis of business needs for BI and what information requirements as needed mobile. 
 
-`Mar 2013 - May 2013` __Data warehouse developer at large norwegian bank__
+`Mar 2013 - May 2013` __Data Warehouse Developer at Large Norwegian Bank__
 
 - Stian was part of a team that built the integration between the data warehouse and new external system. 
 - Stian was responsible for testing one of the most operationally critical part of the integration. 
 
-`Sep 2012 - Mar 2013` __Management and development of ERP at nordic wholesaler__
+`Sep 2012 - Mar 2013` __Management and Development of ERP at Nordic Wholesaler__
 
 - Stian supported the ERP system for a large Nordic electrical wholesaler.
 
-`Apr 2011 - Sep 2012` __Developer at a time reporting startup during studies__
+`Apr 2011 - Sep 2012` __Developer at a Time Reporting Startup During Studies__
 
 - Stian was responsible for integrating with ERP systems and built two integrations.
 - Stian setup continuous deployment with TeamCity
 - All development were in C#
 
-`Aug 2011 - Jun 2012` __Built a framework for stock trading bots as Masters thesis__
+`Aug 2011 - Jun 2012` __Built a Framework for Stock Trading Bots as Masters thesis__
 - Stian and a partner built a framework in Java to test many stock trading bots on a simulated market
 - We tested most classical time series predictors as well as Recurrent Neural Networks
 - Hyperparameter search was done with artificial evolution
@@ -78,7 +78,7 @@ mobile: +47 46 82 89 36
 
 ## Education
 
-`Aug 2007- Jun 2012` __MSc specialization in Artificial Intelligence from the Norwegian University of Science and Technology (NTNU)__
+`Aug 2007- Jun 2012` __MSc Specialization in Artificial Intelligence from the Norwegian University of Science and Technology (NTNU)__
 
 `Jun 2006- Jun 2007` __Heimevernets Befalskole (Officer's training school)__
 
