@@ -79,7 +79,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -10%;
+	left: -12%;
 }
 
 
@@ -120,8 +120,8 @@ h1 {
 	margin-top: 2em;
 	left: 27%;
 	/* padding: .1rem 1rem; */
-  text-shadow: 1px 1px #fff,
-      					1px 2px #ccc;
+  /* text-shadow: 1px 1px #fff,
+      					1px 2px #ccc; */
 }
 
 h1+p {
