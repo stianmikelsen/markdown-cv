@@ -78,8 +78,11 @@ mobile: +47 46 82 89 36
 
 ## Education
 
-`2007-2012`
+`Aug 2007- Jun 2012`
 __MSc specialization in Artificial Intelligence from the Norwegian University of Science and Technology (NTNU)__
+
+`Jun 2006- Jun 2007`
+__Heimevernets Befalskole (Officer's training school)__
 
 
 
@@ -90,7 +93,7 @@ Native:
 Fluent:
 - English
 
-Technical skills:
+## Technical skills:
 - Python
 - SQL
 - Java
