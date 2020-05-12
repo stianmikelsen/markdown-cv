@@ -1,4 +1,4 @@
-
+Story
 
 Why I want to join
 - Work on hard problems
@@ -13,6 +13,9 @@ Why me
 - Motivated by hairy goals
 - Triggered by solving the problem of fully automating grocery shopping 
 - Thrive in chaos
-- Energetic and execution focused, more operative than strategic
-- Experience from software development, machine learning, analytics, and business development and sales (I know to delegate design)
+- Energetic and execution focused, drive
+- Experience from software development, machine learning, analytics, and business development and sales
 - Have developed part of a scalable "service mesh" architecture at Payr
+- Can learn anything fast, especially anything related to IT and Tech
+
+Husk å bruke eksempler
