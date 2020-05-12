@@ -2,7 +2,7 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-
+@page { margin: 0; }
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -78,7 +78,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -10%;
+	left: -20%;
 }
 
 
@@ -88,9 +88,10 @@ ul {
 	width: 65%;
 	margin-bottom: 1em;
 	margin-top: 2em;
-	columns: 3;
+	list-style-type: circle;
+	/* columns: 3;
 	-webkit-columns: 3;
-	-moz-columns: 3;
+	-moz-columns: 3; */
 }
 
 li {
@@ -110,7 +111,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #222;
+	color: #1D49A0;
 	text-align: left;
 	font-size: 2.2em;
 	line-height: 1em;
@@ -129,7 +130,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #1D49A0;
 	margin-top: 1em;
 	position: relative;
 	top: 1.5em;

@@ -78,7 +78,7 @@ code {
 }
 
 p code {
-	position: relative;
+	position: absolute;
 	left: -12%;
 }
 
