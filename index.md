@@ -85,11 +85,8 @@ mobile: +47 46 82 89 36
 
 
 ## Languages
-Native:
-- Norwegian 
-
-Fluent:
-- English
+- Norwegian (native) 
+- English (fluent)
 
 ## Technical skills:
 - Python
