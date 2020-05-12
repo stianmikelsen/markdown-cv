@@ -15,7 +15,7 @@ mobile: +47 46 82 89 36
 
 ## Work Experience
 
-`Nov 2019 - April 2020` __Paternity Leave #2__
+`Nov 2019 - Apr 2020` __Paternity Leave #2__
 
 `Mar 2018 - Nov 2019` __Head of Data at Payr AS__
 
