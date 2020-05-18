@@ -8,8 +8,9 @@ title: Stian Mikelsen's CV
 
 Stian is currently a Senior Manager in the Data & Analytics team at BearingPoint Norway. Stian has a passion for data, both the engineering and the science. He has lately developed a strong interest in product development. Stian wants to work hands-on in an agile environment. He likes to move fast with lots of trial and error. Stian thrives in small cross-functional teams which he likes to lead. Stian has a broad understanding of most of IT and enjoys coding. Stian dislikes inefficiency and waste and will challenge it where he finds it. He is an eager follower of Lean and Agile.
 
+<br>
 email: <a href="stian.mikelsen@gmail.com">stian.mikelsen@gmail.com</a>
-
+<br>
 mobile: +47 46 82 89 36
 
 

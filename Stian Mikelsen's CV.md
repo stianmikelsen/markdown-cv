@@ -38,7 +38,7 @@ mobile: +47 46 82 89 36
 - Stian supported all sub projects with the analysis required in the project and managed and coordinated several required IT projects. 
 - In 2017 he was tasked with the responsibility to ensure progress of the 3 largest sub projects.
 
-`May 2014 - Jan 2016` __Project Manager at a Nordic Media Group__
+`May 2014 - Jan 2016` __Project Manager at a Schibsted__
 
 - Stian was project manager for migration, test and integrations in an implementation of Agresso Business World at one of the nordics largest media groups. 
 - The system has 4000 users distributed on over 50 different companies. Stian worked on the customer side, first by working on the RFP and business case and later all through the implementation and coordinated all external and internal parties. 
