@@ -16,6 +16,18 @@ mobile: +47 46 82 89 36
 
 ## Work Experience
 
+`Sep 2020 - Present` __Project Manager and Architect of Data Platform for shipping company__
+
+Stian acts as the head of the Data and Insights department and has led and architected the development of a new data platform on Azure. He has worked closely with each business unit to tailor the data model and reporting to their needs. Stian’s team also created data pipelines that fetch and use sensor data from the ships and have used this to automate previously manual processes. Stian also helped interview Data Engineer candidates and train staff at the client to be self-sufficient on Power BI. Tech: Azure, Data Factory, Databricks, Python, SQL, Azure DevOps, Synapse, PowerBI
+
+`Feb 2021 - Apr 2021` __Project Manager and architect on ad-hoc data warehouse__
+
+Led the building of an ad-hoc data platform with a multitude of datasources that needed to be built fast on external infrastructure due to a legal case. We were able to help the organization extract historical data from various on-prem and external sources including obscure proprietary database formats. We loaded all to BigQuery and modelled it for easy use by the legal consultancy doing the analysis. Tech: BigQuery, Data Transfer Service, SAP ECC and BW, Python, SQL, Azure DevOps
+
+`Jun 2020 - Jan 2021` __Project Manager and architect on a dashboard for a grocery chain__
+
+Led a team to build a Dash dashboard on Azure App Service. Built data flows from API and central Data Warehouse and created a datamodel in GCP BigQuery to allow for efficient serving to the dashboard. Create around 10 different analysis pages to facilitate Tech: Azure, App Service, BigQuery Data Factory, Python, SQL, Docker, Azure DevOps 
+
 `Nov 2019 - Apr 2020` __Paternity Leave #2__
 
 `Mar 2018 - Nov 2019` __Head of Data at Payr AS__
@@ -80,6 +92,8 @@ mobile: +47 46 82 89 36
 ## Education
 
 `Aug 2007- Jun 2012` __MSc Specialization in Artificial Intelligence from the Norwegian University of Science and Technology (NTNU)__
+- GPA of 4.5
+- In parallel with the degree in computer engineering, Stian followed the subjects of industrial economics, where he also obtained the final master's thesis
 
 `Jun 2006- Jun 2007` __Heimevernets Befalskole (Officer's training school)__
 
